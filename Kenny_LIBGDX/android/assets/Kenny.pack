@@ -1,0 +1,33 @@
+
+b1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wendy
+  rotate: false
+  xy: 0, 0
+  size: 261, 383
+  orig: 261, 383
+  offset: 0, 0
+  index: -1
+stan
+  rotate: false
+  xy: 261, 0
+  size: 200, 295
+  orig: 200, 295
+  offset: 0, 0
+  index: -1
+pray
+  rotate: false
+  xy: 261, 295
+  size: 120, 160
+  orig: 120, 160
+  offset: 0, 0
+  index: -1
+kenny
+  rotate: false
+  xy: 381, 295
+  size: 120, 160
+  orig: 120, 160
+  offset: 0, 0
+  index: -1

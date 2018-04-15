@@ -1,0 +1,19 @@
+
+sad21.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pray
+  rotate: false
+  xy: 0, 0
+  size: 120, 160
+  orig: 120, 160
+  offset: 0, 0
+  index: -1
+kenny
+  rotate: false
+  xy: 0, 160
+  size: 120, 160
+  orig: 120, 160
+  offset: 0, 0
+  index: -1
